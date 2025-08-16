@@ -1,0 +1,22 @@
+# Ignorar entornos virtuales
+venv/
+python-polars-the-definitive-guide
+
+# Ignorar archivos de datos
+*.csv
+*.parquet
+*.tsv
+*.xlsx
+*.json
+*.zip
+*.gz
+*.feather
+*.h5
+*.db
+*.sqlite
+
+# Ignorar archivos temporales
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
