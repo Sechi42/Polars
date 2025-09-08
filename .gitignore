@@ -58,6 +58,7 @@ python-polars-the-definitive-guide
 *.bak
 *.tmp
 *.dat
+Dani_project
 
 # Ignorar archivos temporales
 __pycache__/
