@@ -59,6 +59,7 @@ python-polars-the-definitive-guide
 *.tmp
 *.dat
 Dani_project
+*.json
 
 # Ignorar archivos temporales
 __pycache__/
