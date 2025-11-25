@@ -3,6 +3,7 @@ venv/
 python-polars-the-definitive-guide
 # Ignore Copilot instructions file (local-only guidance)
 .github/copilot-instructions.md
+*.geojson
 
 # Ignorar archivos de datos
 *.csv
