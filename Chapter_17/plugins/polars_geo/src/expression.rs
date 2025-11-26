@@ -64,7 +64,7 @@ fn geo_haversine_distance(
     let to_point = extract_point(to_opt);
     match (from_point, to_point) {
         (Some(from_point), Some(to_point)) => {
-            Some(Haversine::distance(from_point, to_point))
+            Some(Haversine.distance(from_point, to_point))
         }
         _ => None, // Return None if point extraction fails
     }
